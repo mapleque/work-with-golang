@@ -6,5 +6,8 @@
 - 如果您从未接触过Go语言，通过阅读本文，基本能够在一天的时间内掌握使用Go语言开发的基本技能。
 - 如果您对Go语言比较熟悉，本文可能对您没有任何帮助。
 
-- [中文入口](doc-cn/index.md)
-- English Version
+
+
+[中文入口](doc-cn/index.md)
+
+English Version
