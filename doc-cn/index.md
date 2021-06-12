@@ -10,7 +10,7 @@
     1. 基本语法
         1. [注释](grammar-commentary.md)
         1. [常量和变量](grammar-const-var.md)
-        1. 基本类型
+        1. [基本类型](grammar-type.md)
         1. 地址和指针
         1. 函数和延迟
         1. 比较和运算
