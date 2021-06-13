@@ -1,3 +1,7 @@
+# Mac tmp file
+.DS_Store
+# vim swap file
+*.swp
 # Binaries for programs and plugins
 *.exe
 *.exe~
