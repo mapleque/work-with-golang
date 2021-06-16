@@ -3,8 +3,9 @@
 
 1. 基础知识和环境准备
     1. 安装Go语言执行环境
+        1. [mac](install-mac.md)
     1. 选择适合的IDE
-        1. vim
+        1. [vim](ide-vim.md)
         1. goland
         1. vscode
     1. 基本语法
